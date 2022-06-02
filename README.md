@@ -1,0 +1,1 @@
+StartUp time for spring boot Application: 2022-06-02 17:39:24.227  INFO 187839 --- [           main] c.a.ArithmeticOperationsApplication      : Started ArithmeticOperationsApplication in 6.016 seconds (JVM running for 7.546)
